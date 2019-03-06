@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDisplay">#01E0FF</color>
+    <color name="colorBlack">#6E1181</color>
+    <color name="colorNumbers">#FFFFFF</color>
+    <color name="colorOperators">#0729F5</color>
+    <color name="colorOp2">#FF0101</color>
+</resources>
